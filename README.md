@@ -99,6 +99,6 @@ Tackle large-scale, distributed systems. Focus on **scalability**, **fault toler
 ## 📈 Progress Tracker
 
 ```bash
-🟢 Completed: 0/40
+🟢 Completed: 2/40
 🟡 In Progress: 1
-🔴 Remaining: 39
+🔴 Remaining: 37
